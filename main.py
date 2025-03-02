@@ -46,6 +46,7 @@ webcam.release()
 cv2.destroyAllWindows()
 
 """
+    thay doi tren repo
     hay cho toi biet nhung thay doi nay tren git
 """
 
