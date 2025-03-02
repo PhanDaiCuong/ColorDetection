@@ -45,6 +45,7 @@ while True:
 webcam.release()
 cv2.destroyAllWindows()
 
+
 """
     hay cho toi biet nhung thay doi nay tren git
 """
